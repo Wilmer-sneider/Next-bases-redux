@@ -16,7 +16,7 @@ export default function AuthUserPage() {
     <>
       <div>
         <h1>Hello AuthUserPage</h1>
-        <h2>hola de nuevo</h2>
+
         {!auth ? (
           <button onClick={handleLogin}>iniciar sesion</button>
         ) : (
