@@ -17,7 +17,6 @@ export default function ContadorRedux() {
       <h1 className="text-center p-4 text-4xl font-semibold">
         Contador con Redux
       </h1>
-      <h1>haciendo pruebas</h1>
 
       <div className="">
         <h3 className="text-center font-semibold">
