@@ -5,6 +5,8 @@ import { data } from "@/data/db";
 export default function EnsayoFirstPage() {
   const { name, edad } = data;
 
+  console.log(data);
+
   return (
     <div>
       <h1>Hello EnsayoFirstPage</h1>
